@@ -132,4 +132,4 @@ Dataset: Telco costumer churn (Kaggle) URL : [Здесь](https://www.kaggle.com
 # Лабораторная работа 3: Подготовка исходных данных
 
 Мы выполнили эту задачу в google colab, а затем сохранили в нашем Github. В приложении ссылка на наш код для предварительной обработки набора данных:
-https://github.com/KOCORA/The-architecture-of-artificial-intelligence systems./blob/master/Costumer_churn.ipynb 
+https://colab.research.google.com/github/KOCORA/The-architecture-of-artificial-intelligence-systems./blob/master/Costumer_churn.ipynb#scrollTo=ANT7OXPqzBjW 
